@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.3"
+  },
+  "name": "proj11-my-bank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AZ",
+  "license": "ISC",
+  "description": ""
+}
